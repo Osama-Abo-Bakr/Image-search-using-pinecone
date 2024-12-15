@@ -1,0 +1,9 @@
+huggingface_hub
+timm
+python-dotenv==1.0.0
+pinecone-client==5.0.1
+fastapi==0.95.1
+uvicorn==0.20.0
+python-multipart
+tqdm
+pandas
